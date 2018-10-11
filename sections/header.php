@@ -4,7 +4,7 @@
         <h3 class="text-primary">UNIVERSIDAD DE EL SALVADOR <br> FACULTAD MULTIDISCIPLINARIA ORIENTAL <br> DEP. DE
             INGENIERIA Y ARQ. </h3>
         <hr>
-        <h2 class="text-primary">ING. DE SOFTWARE PATRONES ESTRUCTURALES</h3>
+        <h2 class="text-primary">ING. DE SOFTWARE PATRONES DE COMPORTAMIENTO</h3>
             <p class="tagline"><b>Docete:</b> Ing. Milagro Alicia de Reyes <b>Tutor:</b> Raúl Portillo <br>
                 Presentan: Luis Iraheta IM15005 Yenifer Garcia GM15002 </p>
     </div>
